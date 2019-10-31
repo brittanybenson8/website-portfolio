@@ -1,0 +1,21 @@
+body {
+  background-color: #FFFFF0
+}
+
+h1 {
+  font: Avantgarde;
+  color: #1E90FF;
+}
+
+h2 {
+  color: #FF6347
+}
+
+p {
+  color: #66CDAA
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: "Avantgarde", "TeX Gyre Adventor", "URW", "Gothic L", sans-serif;
+  font-weight: normal;
+}
