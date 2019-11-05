@@ -34,7 +34,14 @@ p {
   font-size: 1.25em;
 }
 
-h1, h2, h3, h4, h5, h6, p, div, menu-container, header-container {
+li {
+  margin-left: 145px;
+  margin-bottom: 5px;
+  margin-right: 125px;
+  color: #9932CC;
+}
+
+h1, h2, h3, h4, h5, h6, p, div, menu-container, header-container, li {
   font-family: "Trebuchet MS", "Helvetica", sans-serif;
   font-weight: normal;
 }
