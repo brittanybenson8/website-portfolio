@@ -13,6 +13,7 @@ h1 {
 h2 {
   margin-left:100px;
   margin-top: 10px;
+  margin-bottom: 20px;
   color: #FF6347;
   font-size: 2em;
 }
@@ -23,6 +24,12 @@ h3 {
   margin-bottom: 10px;
   color: #8B008B;
   font-size: 1.5em;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
 }
 
 p {
@@ -41,10 +48,11 @@ li {
   color: #9932CC;
 }
 
-h1, h2, h3, h4, h5, h6, p, div, menu-container, header-container, li {
+h1, h2, h3, h4, p, div, menu-container, header-container, li {
   font-family: "Trebuchet MS", "Helvetica", sans-serif;
   font-weight: normal;
 }
+
 
 * {
   margin: 0;
@@ -63,7 +71,7 @@ h1, h2, h3, h4, h5, h6, p, div, menu-container, header-container, li {
 .menu {
   width: 900px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .links {
@@ -71,9 +79,6 @@ h1, h2, h3, h4, h5, h6, p, div, menu-container, header-container, li {
   justify-content: flex-end;
 }
 
-.login {
-  margin-left: 20px;
-}
 
 .header-container {
   color: #5995DA;
@@ -86,7 +91,7 @@ h1, h2, h3, h4, h5, h6, p, div, menu-container, header-container, li {
   width: 900px;
   height: 300px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 
