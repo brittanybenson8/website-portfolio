@@ -119,15 +119,9 @@ h1, h2, h3, h4, h5, h6, p, div, menu-container, header-container, li {
   flex: 1;
 }
 
-.footer-one,
-.footer-three {
+.footer-one {
   background-color: #5995DA;
   flex: initial;
-  width: 200px;
-  height: 100px;
-}
-
-.footer-two {
-  width: 400px;
-  height: 100px;
+  width: 1500px;
+  height: 40px;
 }
