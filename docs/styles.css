@@ -32,6 +32,14 @@ h4 {
   font-style: italic;
 }
 
+h5 {
+  margin-left: 125px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #8B008B;
+  font-size: 1.30em;
+}
+
 p {
   margin-left: 125px;
   margin-right: 125px;
@@ -48,7 +56,7 @@ li {
   color: #9932CC;
 }
 
-h1, h2, h3, h4, p, div, menu-container, header-container, li {
+h1, h2, h3, h4, h5, p, div, menu-container, header-container, li {
   font-family: "Trebuchet MS", "Helvetica", sans-serif;
   font-weight: normal;
 }
