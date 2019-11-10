@@ -4,4 +4,4 @@ My website provides answers to commonly asked questions about the Disney College
 
 Check it out!
 
-[Discovering Disney] (file:///Users/brittanybenson/Documents/GitHub/website-portfolio-2019fall/docs/index.html)
+file:///Users/brittanybenson/Documents/GitHub/website-portfolio-2019fall/docs/index.html
