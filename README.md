@@ -4,4 +4,5 @@ My website provides answers to commonly asked questions about the Disney College
 
 Check it out!
 
-file:///Users/brittanybenson/Documents/GitHub/website-portfolio/docs/index.html
+https://brittanybenson8.github.io/website-portfolio/
+
